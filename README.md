@@ -71,7 +71,7 @@ spotify-hit-prediction/
 
 | Class Distribution After SMOTE |
 |:------------------------------:|
-| ![SMOTE](results/aftersmote.png) |
+| ![SMOTE](Results/aftersmote.png) |
 
 ---
 
@@ -86,7 +86,7 @@ spotify-hit-prediction/
 
 | Confusion Matrix - Base Model |
 |:-----------------------------:|
-| ![Base Matrix](results/matrixfirstmodel.png) |
+| ![Base Matrix](Results/matrixfirstmodel.png) |
 
 ---
 
@@ -94,7 +94,7 @@ spotify-hit-prediction/
 
 | Feature Importance - Base Model |
 |:-------------------------------:|
-| ![Feature Importance](results/featureimportance.png) |
+| ![Feature Importance](Results/featureimportance.png) |
 
 Top predictors:
 - Instrumentalness
@@ -131,7 +131,7 @@ Top predictors:
 
 | Confusion Matrix - Optimized Model |
 |:----------------------------------:|
-| ![Optimized](results/optimizedmodel.png) |
+| ![Optimized](Results/optimizedmodel.png) |
 
 ---
 
