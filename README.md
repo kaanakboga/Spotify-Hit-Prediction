@@ -178,5 +178,5 @@ python spotify_analysis.py
 
 ## 👤 Author
 
-Made with ❤️ by **Kaan Akboğa**  
+Kaan Akboğa**  
 GitHub: [@kaanakboga](https://github.com/kaanakboga)
