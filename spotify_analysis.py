@@ -158,5 +158,3 @@ plt.title("Confusion Matrix - Optimize Model")
 plt.xlabel("Estimated")
 plt.ylabel("Actual Value")
 plt.show()
-
-# 📌 2. Veri Setinin Yüklenmesi ve İncelenmesi
