@@ -70,7 +70,10 @@ After SMOTE:
 Class	Count
 Not Hit	86,783
 Hit	86,783
-<p align="center"> <img src="results/aftersmote.png" alt="After SMOTE" width="500"/> </p>
+<p align="center">
+  <img src="https://github.com/kaanakboga/spotify-hit-prediction/blob/main/results/aftersmote.png?raw=true" width="500"/>
+</p>
+
 🧠 Model Training and Evaluation
 
 We used RandomForestClassifier as the base model and compared both base and optimized versions:
@@ -80,9 +83,14 @@ Accuracy	93.6%
 Precision	0.39
 Recall	0.67
 F1-Score	0.49
-<p align="center"> <img src="results/matrixfirstmodel.png" alt="Base Confusion Matrix" width="500"/> </p>
+<p align="center">
+  <img src="https://github.com/kaanakboga/spotify-hit-prediction/blob/main/results/matrixfirstmodel.png?raw=true" width="500"/>
+</p>
 📈 Feature Importance
-<p align="center"> <img src="results/featureimportance.png" alt="Feature Importance" width="600"/> </p>
+<p align="center">
+  <img src="https://github.com/kaanakboga/spotify-hit-prediction/blob/main/results/featureimportance.png?raw=true" width="500"/>
+</p>
+
 
 Top predictors of hit songs included:
 
@@ -117,7 +125,10 @@ F1-Score	0.30
 
     ⚠️ Precision dropped due to increased sensitivity (recall) for the minority class (hit songs), leading to more false positives.
 
-<p align="center"> <img src="results/optimizedmodel.png" alt="Optimized Confusion Matrix" width="500"/> </p>
+<p align="center">
+  <img src="https://github.com/kaanakboga/spotify-hit-prediction/blob/main/results/optimizedmodel.png?raw=true" width="500"/>
+</p>
+
 🧪 Cross Validation (Base Model)
 
 5-Fold Cross Validation Accuracy:
